@@ -10,7 +10,7 @@ V3.4.0: Completed the trot system and can be control with a controller
 
 V3.5.0: Major updates on the trot gait planner
 
-Currently I'm working to improve the Structure, and Program, there should be a major few more improvements in the next update.
+Currently I'm working to improve the structure and program, there should be few more major improvements in the next update.
 
 ![V3 3 3](https://user-images.githubusercontent.com/95353708/205052146-742f65d9-7896-47fc-b498-86ebf7088db0.JPG)
 ![v3 3 3_Trot_Forward Backward](https://user-images.githubusercontent.com/95353708/205054068-9b563ab5-bea4-4b79-b054-7c653e20faae.gif)

@@ -1,3 +1,5 @@
+# This project will now be continued in the new [Turbo Pup](https://github.com/MackaJunest/Turbo-Pup) repository.
+
 # 8-DOF-Quadruped-Robot/ Robotic Dog
 8 DOF Quadruped Robot with Raspberry Pi and Arduino Mega2560
 
